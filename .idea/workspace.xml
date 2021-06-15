@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="109e7a3e-8ddb-4d43-9b58-75d051370fe7" name="Default Changelist" comment="Arquivos não versionados." />
+    <list default="true" id="109e7a3e-8ddb-4d43-9b58-75d051370fe7" name="Default Changelist" comment="Tentativa 1: alterado arquivo pyup">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1623797531358</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adicionado arquivo flake8">
+      <created>1623797896222</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1623797896222</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Tentativa 1: alterado arquivo pyup">
+      <created>1623797969147</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1623797969147</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,7 +132,9 @@
     <MESSAGE value="Adicionados arquivos .pyup.yml e .travis.yml" />
     <MESSAGE value="Atualizados pipfile e pipfile.lock" />
     <MESSAGE value="Arquivos não versionados." />
-    <option name="LAST_COMMIT_MESSAGE" value="Arquivos não versionados." />
+    <MESSAGE value="Adicionado arquivo flake8" />
+    <MESSAGE value="Tentativa 1: alterado arquivo pyup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tentativa 1: alterado arquivo pyup" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
