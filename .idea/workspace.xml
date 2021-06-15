@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="109e7a3e-8ddb-4d43-9b58-75d051370fe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.pyup.tml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+    <list default="true" id="109e7a3e-8ddb-4d43-9b58-75d051370fe7" name="Default Changelist" comment="Atualizados pipfile e pipfile.lock">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pyup.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.pyup.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+        <entry key="$PROJECT_DIR$" value="main" />
         <entry key="$PROJECT_DIR$/curso-django" value="main" />
       </map>
     </option>
@@ -30,6 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -63,6 +65,21 @@
       <option name="presentableId" value="Default" />
       <updated>1623530868969</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adicionados arquivos .pyup.yml e .travis.yml">
+      <created>1623796721699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623796721699</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Atualizados pipfile e pipfile.lock">
+      <created>1623796763146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623796763146</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,6 +92,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adicionados arquivos .pyup.yml e .travis.yml" />
+    <MESSAGE value="Atualizados pipfile e pipfile.lock" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizados pipfile e pipfile.lock" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
