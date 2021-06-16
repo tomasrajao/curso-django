@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="109e7a3e-8ddb-4d43-9b58-75d051370fe7" name="Default Changelist" comment="Tentativa 2: alterado arquivo pyup">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" />
-    </list>
+    <list default="true" id="109e7a3e-8ddb-4d43-9b58-75d051370fe7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1623881011469</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Atualizado arquivo pipfile">
+      <created>1623882694717</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1623882694717</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Atualizado arquivo pipfile">
+      <created>1623882793152</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1623882793152</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,7 +195,8 @@
     <MESSAGE value="Adicionado arquivo flake8" />
     <MESSAGE value="Tentativa 1: alterado arquivo pyup" />
     <MESSAGE value="Tentativa 2: alterado arquivo pyup" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tentativa 2: alterado arquivo pyup" />
+    <MESSAGE value="Atualizado arquivo pipfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizado arquivo pipfile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
