@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="109e7a3e-8ddb-4d43-9b58-75d051370fe7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flake8" beforeDir="false" afterPath="$PROJECT_DIR$/.flake8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623883232738</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Tentativa resolução de problema com PATH do flake8 (travis)">
+      <created>1623883876182</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1623883876182</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,7 +220,8 @@
     <MESSAGE value="Tentativa 1: alterado arquivo pyup" />
     <MESSAGE value="Tentativa 2: alterado arquivo pyup" />
     <MESSAGE value="Atualizado arquivo pipfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualizado arquivo pipfile" />
+    <MESSAGE value="Tentativa resolução de problema com PATH do flake8 (travis)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tentativa resolução de problema com PATH do flake8 (travis)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
