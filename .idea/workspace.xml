@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="109e7a3e-8ddb-4d43-9b58-75d051370fe7" name="Default Changelist" comment="" />
+    <list default="true" id="109e7a3e-8ddb-4d43-9b58-75d051370fe7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pypro/base/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/base/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="1" />
         <entry key="$PROJECT_DIR$/curso-django" value="main" />
       </map>
     </option>
@@ -35,6 +37,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="11" />
+    </force-push-targets>
     <option name="SHOW_DETAILS_PANEL" value="false" />
   </component>
   <component name="RecentsManager">
@@ -281,7 +286,28 @@
       <option name="project" value="LOCAL" />
       <updated>1623970987741</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Criada app base&#10;&#10;close #11">
+      <created>1623972339738</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1623972339738</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Criada app base&#10;&#10;close #11">
+      <created>1623973069815</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1623973069815</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Criada Home com Olá Django">
+      <created>1623973237264</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1623973237264</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -312,7 +338,8 @@
     <MESSAGE value="Acrescentado endereço da app no Heroku" />
     <MESSAGE value="Corrigido erro de digitação no arquivo do flake8." />
     <MESSAGE value="Criada app base&#10;&#10;close #11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criada app base&#10;&#10;close #11" />
+    <MESSAGE value="Criada Home com Olá Django" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criada Home com Olá Django" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
