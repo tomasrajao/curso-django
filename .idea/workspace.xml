@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="109e7a3e-8ddb-4d43-9b58-75d051370fe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/curso-django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/curso-django.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="Push.Settings">
     <option name="SHOW_DETAILS_PANEL" value="false" />
@@ -216,7 +217,28 @@
       <option name="project" value="LOCAL" />
       <updated>1623890905341</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Adicionados arquivos para deploy no Heroku">
+      <created>1623892245654</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1623892245654</updated>
+    </task>
+    <task id="LOCAL-00022" summary="[2]Adicionados arquivos para deploy no Heroku">
+      <created>1623893555129</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1623893555129</updated>
+    </task>
+    <task id="LOCAL-00023" summary="[3]Adicionados arquivos para deploy no Heroku">
+      <created>1623894072696</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1623894072696</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,7 +263,10 @@
     <MESSAGE value="Atualizado arquivo pipfile" />
     <MESSAGE value="Tentativa resolução de problema com PATH do flake8 (travis)" />
     <MESSAGE value="Iniciado servidor do Django" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iniciado servidor do Django" />
+    <MESSAGE value="Adicionados arquivos para deploy no Heroku" />
+    <MESSAGE value="[2]Adicionados arquivos para deploy no Heroku" />
+    <MESSAGE value="[3]Adicionados arquivos para deploy no Heroku" />
+    <option name="LAST_COMMIT_MESSAGE" value="[3]Adicionados arquivos para deploy no Heroku" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
