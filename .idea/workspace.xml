@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="109e7a3e-8ddb-4d43-9b58-75d051370fe7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/curso-django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/curso-django.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pypro/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pypro/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/manage.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="Push.Settings">
@@ -46,28 +45,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Run">
-    <configuration name="Run" type="PythonConfigurationType" factoryName="Python">
-      <module name="curso-django" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/.pyenv/versions/3.9.5/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
-      <option name="PARAMETERS" value="runserver" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="curso-django" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,10 +67,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.Run" />
-      <item itemvalue="Python.main" />
-    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -264,21 +238,7 @@
       <option name="project" value="LOCAL" />
       <updated>1623894072696</updated>
     </task>
-    <task id="LOCAL-00024" summary="Acrescentado endereço da app no Heroku">
-      <created>1623968351655</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1623968351655</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Corrigido erro de digitação no arquivo do flake8.">
-      <created>1623968450435</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1623968450435</updated>
-    </task>
-    <option name="localTasksCounter" value="26" />
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -306,9 +266,7 @@
     <MESSAGE value="Adicionados arquivos para deploy no Heroku" />
     <MESSAGE value="[2]Adicionados arquivos para deploy no Heroku" />
     <MESSAGE value="[3]Adicionados arquivos para deploy no Heroku" />
-    <MESSAGE value="Acrescentado endereço da app no Heroku" />
-    <MESSAGE value="Corrigido erro de digitação no arquivo do flake8." />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrigido erro de digitação no arquivo do flake8." />
+    <option name="LAST_COMMIT_MESSAGE" value="[3]Adicionados arquivos para deploy no Heroku" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
