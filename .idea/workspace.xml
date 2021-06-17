@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="109e7a3e-8ddb-4d43-9b58-75d051370fe7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623884729111</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Iniciado servidor do Django">
+      <created>1623890905341</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1623890905341</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,7 +240,8 @@
     <MESSAGE value="Tentativa 2: alterado arquivo pyup" />
     <MESSAGE value="Atualizado arquivo pipfile" />
     <MESSAGE value="Tentativa resolução de problema com PATH do flake8 (travis)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tentativa resolução de problema com PATH do flake8 (travis)" />
+    <MESSAGE value="Iniciado servidor do Django" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iniciado servidor do Django" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
