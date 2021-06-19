@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="109e7a3e-8ddb-4d43-9b58-75d051370fe7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contrib/env_sample" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/env_sample" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pypro/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,6 +142,8 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_home.test_status_code" />
+        <item itemvalue="Python tests.pytest in test_home.py" />
         <item itemvalue="Python tests.pytest in test_home.py" />
         <item itemvalue="Python tests.pytest for test_home.test_status_code" />
       </list>
