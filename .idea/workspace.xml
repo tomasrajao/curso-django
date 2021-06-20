@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="109e7a3e-8ddb-4d43-9b58-75d051370fe7" name="Default Changelist" comment="" />
+    <list default="true" id="109e7a3e-8ddb-4d43-9b58-75d051370fe7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/django_ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/django_ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +48,7 @@
   <component name="Push.Settings">
     <force-push-targets>
       <force-push-target remote-path="origin" branch="11" />
+      <force-push-target remote-path="origin" branch="17" />
     </force-push-targets>
     <option name="SHOW_DETAILS_PANEL" value="false" />
   </component>
@@ -464,7 +468,42 @@
       <option name="project" value="LOCAL" />
       <updated>1624200378095</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary=" Extraída configuração ALLOWED_HOSTS&#10;&#10;close #17&#10;&#10;Extraída configuração DATABASE_URL&#10;(Postgresql) Implementado ambiente de teste similar ao de produção do Heroku">
+      <created>1624200546594</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1624200546594</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Alterado CI do Travis para Github Actions">
+      <created>1624204941169</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1624204941171</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Alterado CI do Travis para Github Actions">
+      <created>1624205061919</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1624205061919</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Alterado CI do Travis para Github Actions">
+      <created>1624205166703</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1624205166703</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Alterado CI do Travis para Github Actions">
+      <created>1624205296340</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1624205296340</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,7 +541,8 @@
     <MESSAGE value="Extraída configuração ALLOWED_HOSTS&#10;&#10;close #17&#10;&#10;Extraída configuração DATABASE_URL&#10;(Postgresql) Implementado ambiente de teste similar ao de produção do Heroku" />
     <MESSAGE value="Instalado psycopg2-binary&#10;Desinstalado pyscopg2" />
     <MESSAGE value=" Extraída configuração ALLOWED_HOSTS&#10;&#10;close #17&#10;&#10;Extraída configuração DATABASE_URL&#10;(Postgresql) Implementado ambiente de teste similar ao de produção do Heroku" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Extraída configuração ALLOWED_HOSTS&#10;&#10;close #17&#10;&#10;Extraída configuração DATABASE_URL&#10;(Postgresql) Implementado ambiente de teste similar ao de produção do Heroku" />
+    <MESSAGE value="Alterado CI do Travis para Github Actions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alterado CI do Travis para Github Actions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
