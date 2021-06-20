@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="109e7a3e-8ddb-4d43-9b58-75d051370fe7" name="Default Changelist" comment="Instalado decouple e criada pasta contrib/env_sample">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="109e7a3e-8ddb-4d43-9b58-75d051370fe7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -410,7 +407,21 @@
       <option name="project" value="LOCAL" />
       <updated>1624192721826</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Instalado psycopg2-binary&#10;Desinstalado pyscopg2">
+      <created>1624193210775</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1624193210775</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Instalado psycopg2-binary&#10;Desinstalado pyscopg2">
+      <created>1624193275695</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1624193275695</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -446,7 +457,8 @@
     <MESSAGE value="Adicionada cobertura de testes&#10;&#10;resolved #11" />
     <MESSAGE value="Instalado decouple e criada pasta contrib/env_sample" />
     <MESSAGE value="Extraída configuração ALLOWED_HOSTS&#10;&#10;close #17&#10;&#10;Extraída configuração DATABASE_URL&#10;(Postgresql) Implementado ambiente de teste similar ao de produção do Heroku" />
-    <option name="LAST_COMMIT_MESSAGE" value="Extraída configuração ALLOWED_HOSTS&#10;&#10;close #17&#10;&#10;Extraída configuração DATABASE_URL&#10;(Postgresql) Implementado ambiente de teste similar ao de produção do Heroku" />
+    <MESSAGE value="Instalado psycopg2-binary&#10;Desinstalado pyscopg2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Instalado psycopg2-binary&#10;Desinstalado pyscopg2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
