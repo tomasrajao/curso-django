@@ -11,7 +11,7 @@ dj-database-url = "*"
 psycopg2-binary = "*"
 
 [dev-packages]
-flake8 = "*"K
+flake8 = "*"
 pytest-django = "*"
 pytest-cov = "*"
 codecov = "*"
