@@ -135,4 +135,4 @@ staticfiles.*
 mediafiles.*
 
 # Others
-.idea
+.idea/
