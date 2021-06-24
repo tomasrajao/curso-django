@@ -133,3 +133,6 @@ dmypy.json
 # AWS Files to ignore
 staticfiles.*
 mediafiles.*
+
+# Others
+.idea
