@@ -119,10 +119,10 @@ USE_TZ = True
 # Configuração de ambiente de desenvolvimento
 
 STATIC_URL = '/static/'
-STATIC_ROOT = f'{BASE_DIR}/staticfiles'
+STATIC_ROOT = f'/{BASE_DIR}/staticfiles'
 
 MEDIA_URL = '/media/'
-MEDIA_ROOT = f'{BASE_DIR}/mediafiles'
+MEDIA_ROOT = f'/{BASE_DIR}/mediafiles'
 
 AWS_ACCESS_KEY_ID = config('AWS_ACCESS_KEY_ID')
 
