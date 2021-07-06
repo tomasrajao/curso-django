@@ -18,7 +18,6 @@ import sentry_sdk
 from decouple import config, Csv
 from sentry_sdk.integrations.django import DjangoIntegration
 
-
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 # Quick-start development settings - unsuitable for production
@@ -185,7 +184,7 @@ if AWS_ACCESS_KEY_ID:  # pragma: no cover
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-SENTRY_DSN=config('SENTRY_DSN', default=None)
+SENTRY_DSN = config('SENTRY_DSN', default=None)
 
 if SENTRY_DSN:
     sentry_sdk.init(
