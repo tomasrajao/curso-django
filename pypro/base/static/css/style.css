@@ -1,3 +1,12 @@
+.jumbotron{
+    background-color: #ececec;
+    align-items: flex-start;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 19px;
+    border-radius: 4px;
+}
+
 .main-footer{
     background-color: #9fd25f;
 }
