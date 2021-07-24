@@ -136,3 +136,6 @@ mediafiles.*
 
 # Others
 .idea/
+
+# Postgres files for local development
+.pgdata
