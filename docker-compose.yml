@@ -10,6 +10,6 @@ services:
     environment:
       - LC_ALL=C.UTF-8
       - POSTGRES_PASSWORD=pythonpro
-      - POSTGRESS_USER=pythonpro
+      - POSTGRES_USER=pythonpro
     ports:
       - 5434:5432
