@@ -30,8 +30,8 @@ jobs:
         cp contrib/env_sample .env
     - name: Install dependencies
       run: |
-        pip install pipenv
-        pipenv sync --dev
+        pip install --upgrade pipenv wheel
+        pipenv install --deploy --dev
     - name: Lint with flake8
       run: |
         pipenv run flake8 .
